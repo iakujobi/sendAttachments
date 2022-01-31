@@ -20,6 +20,6 @@ This is how to send email with attachments using Python with Outlook as the SMTP
 
 3. Call the route using a POST route on Postman.
 
-<mark>NOTE:</mark>Microsoft is moving away from simple authentication. Even though the code works, the mail will not send and you will get an authentication error.
+<mark>NOTE:</mark> Microsoft is moving away from simple authentication. Even though the code works, the mail will not send and you will get an authentication error.
 
 Created by Ikechukwu Akujobi on 01/26/2022
